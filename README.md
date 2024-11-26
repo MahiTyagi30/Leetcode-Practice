@@ -15,4 +15,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+## Graph
+|  |
+| ------- |
+| [3189-find-champion-ii](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/3189-find-champion-ii) |
 <!---LeetCode Topics End-->
