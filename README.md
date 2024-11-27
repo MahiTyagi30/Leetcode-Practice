@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -19,4 +20,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3189-find-champion-ii](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/3189-find-champion-ii) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 <!---LeetCode Topics End-->
