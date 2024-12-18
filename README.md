@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0678-valid-parenthesis-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2232-adding-spaces-to-a-string](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/2232-adding-spaces-to-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/2414-move-pieces-to-obtain-a-string) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0678-valid-parenthesis-string) |
 | [2164-two-best-non-overlapping-events](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/2164-two-best-non-overlapping-events) |
 ## Heap (Priority Queue)
 |  |
@@ -122,5 +124,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0890-lemonade-change) |
+## Stack
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
