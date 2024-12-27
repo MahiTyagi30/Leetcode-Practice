@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0045-jump-game-ii) |
 | [0056-merge-intervals](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0056-merge-intervals) |
 | [0135-candy](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0135-candy) |
+| [0435-non-overlapping-intervals](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0890-lemonade-change) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0056-merge-intervals) |
+| [0435-non-overlapping-intervals](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0455-assign-cookies) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2164-two-best-non-overlapping-events](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/2164-two-best-non-overlapping-events) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0045-jump-game-ii) |
+| [0435-non-overlapping-intervals](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0678-valid-parenthesis-string) |
 | [2164-two-best-non-overlapping-events](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/2164-two-best-non-overlapping-events) |
 ## Heap (Priority Queue)
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0045-jump-game-ii) |
 | [0135-candy](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0135-candy) |
+| [0435-non-overlapping-intervals](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0890-lemonade-change) |
