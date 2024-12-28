@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0678-valid-parenthesis-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2232-adding-spaces-to-a-string](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/2232-adding-spaces-to-a-string) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0045-jump-game-ii) |
 | [0435-non-overlapping-intervals](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0678-valid-parenthesis-string) |
@@ -144,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0678-valid-parenthesis-string) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
