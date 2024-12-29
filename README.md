@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0045-jump-game-ii) |
+| [0051-n-queens](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0057-insert-interval) |
 | [0135-candy](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0135-candy) |
@@ -150,4 +151,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0022-generate-parentheses) |
+| [0051-n-queens](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
