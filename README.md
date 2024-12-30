@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0037-sudoku-solver) |
 | [0045-jump-game-ii](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0056-merge-intervals) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0037-sudoku-solver) |
 | [0139-word-break](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0139-word-break) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0037-sudoku-solver) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 ## Graph
 |  |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0051-n-queens) |
 ## Trie
 |  |
