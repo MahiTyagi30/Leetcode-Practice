@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0231-power-of-two) |
 | [2050-count-good-numbers](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/2050-count-good-numbers) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0045-jump-game-ii) |
+| [0062-unique-paths](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0198-house-robber) |
@@ -175,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0139-word-break) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
