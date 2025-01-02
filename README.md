@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0057-insert-interval) |
+| [0063-unique-paths-ii](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0063-unique-paths-ii) |
 | [0135-candy](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0198-house-robber) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0037-sudoku-solver) |
+| [0063-unique-paths-ii](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0063-unique-paths-ii) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 ## Graph
 |  |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0198-house-robber) |
