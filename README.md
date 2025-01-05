@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0044-wildcard-matching) |
 | [0231-power-of-two](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0231-power-of-two) |
 | [2050-count-good-numbers](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/2050-count-good-numbers) |
 ## Two Pointers
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0072-edit-distance) |
 | [0139-word-break](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0139-word-break) |
 | [0516-longest-palindromic-subsequence](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0516-longest-palindromic-subsequence) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0063-unique-paths-ii) |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0045-jump-game-ii) |
 | [0135-candy](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0435-non-overlapping-intervals) |
