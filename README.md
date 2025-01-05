@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0022-generate-parentheses) |
 | [0139-word-break](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0139-word-break) |
 | [0678-valid-parenthesis-string](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0678-valid-parenthesis-string) |
+| [1250-longest-common-subsequence](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1250-longest-common-subsequence) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2232-adding-spaces-to-a-string](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/2232-adding-spaces-to-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/2414-move-pieces-to-obtain-a-string) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0518-coin-change-ii) |
 | [0678-valid-parenthesis-string](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0967-minimum-falling-path-sum](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0967-minimum-falling-path-sum) |
+| [1250-longest-common-subsequence](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1250-longest-common-subsequence) |
 | [2164-two-best-non-overlapping-events](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/2164-two-best-non-overlapping-events) |
 ## Heap (Priority Queue)
 |  |
