@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0801-is-graph-bipartite) |
 | [3189-find-champion-ii](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/3189-find-champion-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Breadth-First Search
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0801-is-graph-bipartite) |
 | [1036-rotting-oranges](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1073-number-of-enclaves) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -244,10 +246,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1073-number-of-enclaves) |
 ## Union Find
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1073-number-of-enclaves) |
 <!---LeetCode Topics End-->
