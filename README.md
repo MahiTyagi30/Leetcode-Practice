@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0141-linked-list-cycle) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1160-letter-tile-possibilities](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1160-letter-tile-possibilities) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2107-find-unique-binary-string](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/2107-find-unique-binary-string) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Math
 |  |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1073-number-of-enclaves) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Union Find
 |  |
 | ------- |
@@ -289,4 +292,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0908-middle-of-the-linked-list) |
+## Tree
+|  |
+| ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+## Design
+|  |
+| ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 <!---LeetCode Topics End-->
