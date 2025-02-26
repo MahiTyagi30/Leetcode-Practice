@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2107-find-unique-binary-string](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/2107-find-unique-binary-string) |
 | [2164-two-best-non-overlapping-events](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/2164-two-best-non-overlapping-events) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1170-shortest-common-supersequence](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2164-two-best-non-overlapping-events](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/2164-two-best-non-overlapping-events) |
 ## Heap (Priority Queue)
 |  |
