@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/2107-find-unique-binary-string) |
 | [2164-two-best-non-overlapping-events](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/2164-two-best-non-overlapping-events) |
 | [2232-adding-spaces-to-a-string](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/2232-adding-spaces-to-a-string) |
+| [2551-apply-operations-to-an-array](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/2551-apply-operations-to-an-array) |
 | [2868-continuous-subarrays](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/2868-continuous-subarrays) |
 | [3427-special-array-ii](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/3427-special-array-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2232-adding-spaces-to-a-string](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/2232-adding-spaces-to-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2551-apply-operations-to-an-array](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/2551-apply-operations-to-an-array) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Binary Search
 |  |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2232-adding-spaces-to-a-string](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/2232-adding-spaces-to-a-string) |
+| [2551-apply-operations-to-an-array](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/2551-apply-operations-to-an-array) |
 | [3447-clear-digits](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/3447-clear-digits) |
 ## Dynamic Programming
 |  |
