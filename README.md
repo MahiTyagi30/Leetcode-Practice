@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0231-power-of-two) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2050-count-good-numbers](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/2050-count-good-numbers) |
+| [2610-closest-prime-numbers-in-range](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/2610-closest-prime-numbers-in-range) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -313,4 +314,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+## Number Theory
+|  |
+| ------- |
+| [2610-closest-prime-numbers-in-range](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/2610-closest-prime-numbers-in-range) |
 <!---LeetCode Topics End-->
