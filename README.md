@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2107-find-unique-binary-string](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/2107-find-unique-binary-string) |
 | [2164-two-best-non-overlapping-events](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/2164-two-best-non-overlapping-events) |
 | [2232-adding-spaces-to-a-string](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/2232-adding-spaces-to-a-string) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0300-longest-increasing-subsequence) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2164-two-best-non-overlapping-events](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/2164-two-best-non-overlapping-events) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/3427-special-array-ii) |
