@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0542-01-matrix) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0890-lemonade-change](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0890-lemonade-change) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0967-minimum-falling-path-sum](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0967-minimum-falling-path-sum) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0678-valid-parenthesis-string) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0967-minimum-falling-path-sum](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0967-minimum-falling-path-sum) |
 | [1170-shortest-common-supersequence](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1170-shortest-common-supersequence) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0678-valid-parenthesis-string) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0890-lemonade-change](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0890-lemonade-change) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 ## Stack
