@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0198-house-robber) |
+| [0209-minimum-size-subarray-sum](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0300-longest-increasing-subsequence) |
 | [1046-max-consecutive-ones-iii](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1046-max-consecutive-ones-iii) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [3427-special-array-ii](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/3427-special-array-ii) |
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0567-permutation-in-string) |
 | [1046-max-consecutive-ones-iii](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1046-max-consecutive-ones-iii) |
