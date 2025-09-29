@@ -18,7 +18,7 @@ class Solution {
         ListNode bl=dummy;
           int i=1;
           
-          while(dummy!=null&&i<left){
+          while(i<left){
            bl=bl.next;
             i++;      
           }
