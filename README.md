@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0148-sort-list) |
 | [0455-assign-cookies](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0455-assign-cookies) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0567-permutation-in-string](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0567-permutation-in-string) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0056-merge-intervals) |
+| [0148-sort-list](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0148-sort-list) |
 | [0435-non-overlapping-intervals](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0455-assign-cookies) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0025-reverse-nodes-in-k-group) |
 | [0092-reverse-linked-list-ii](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0328-odd-even-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0528-swapping-nodes-in-a-linked-list) |
@@ -372,4 +375,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/2610-closest-prime-numbers-in-range) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
