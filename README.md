@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0044-wildcard-matching) |
+| [0143-reorder-list](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0231-power-of-two) |
 | [2050-count-good-numbers](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/2050-count-good-numbers) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0148-sort-list) |
 | [0455-assign-cookies](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0455-assign-cookies) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0528-swapping-nodes-in-a-linked-list) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0143-reorder-list) |
 | [0678-valid-parenthesis-string](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0678-valid-parenthesis-string) |
 | [3447-clear-digits](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/3447-clear-digits) |
 ## Backtracking
@@ -354,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0025-reverse-nodes-in-k-group) |
 | [0092-reverse-linked-list-ii](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0328-odd-even-linked-list) |
