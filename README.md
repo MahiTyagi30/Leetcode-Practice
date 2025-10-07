@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0224-basic-calculator](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0231-power-of-two) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2050-count-good-numbers](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/2050-count-good-numbers) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0044-wildcard-matching) |
 | [0143-reorder-list](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0231-power-of-two) |
 | [2050-count-good-numbers](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/2050-count-good-numbers) |
 ## Two Pointers
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0072-edit-distance) |
 | [0139-word-break](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0139-word-break) |
+| [0224-basic-calculator](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0224-basic-calculator) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0567-permutation-in-string) |
@@ -312,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0224-basic-calculator](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0224-basic-calculator) |
 | [0678-valid-parenthesis-string](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0678-valid-parenthesis-string) |
 | [3447-clear-digits](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/3447-clear-digits) |
 ## Backtracking
