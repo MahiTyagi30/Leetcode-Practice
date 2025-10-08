@@ -11,7 +11,8 @@ class Solution {
         for(int i=0;i<value.length();i++){
             sb.append(value.charAt(i));
             fun(result,sb,index+1,ar,digits);
-            sb.delete(index, index + 1);
+           sb.deleteCharAt(sb.length() - 1);
+
         }
     }
  
