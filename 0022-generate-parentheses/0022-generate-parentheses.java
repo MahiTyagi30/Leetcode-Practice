@@ -1,26 +1,23 @@
 class Solution {
-   public void fun(String s,int op,int cl,int n,ArrayList<String> list){
-   
-    if(s.length()==2*n){
-        list.add(s);
-        return ;
-        
-    }
-    if(op<n){
- fun(s+"(",op+1,cl,n,list);
-    }
-   
-    if(cl<op){
-        fun(s+")",op,cl+1,n,list);
-    }
-   
+    public static void fun(ArrayList<String> arr,String str,int o,int c,int n){
+        if(str.length()==2*n){
+            arr.add(str);
+            return;
 
-   }
+        }
+        if(o>0){
+          fun(arr,str+"(",o-1,c,n);
+        }
+         if(c>o){
+          fun(arr,str+")",o,c-1,n);
+        }
+    }
+  
     public List<String> generateParenthesis(int n) {
       int o=n;
       int c=n;
-       ArrayList<String> list=new ArrayList<>();
-      fun("(",1,0,n,list);
-      return list;
+      ArrayList<String> arr=new ArrayList<>();
+       fun(arr,"(",o-1,c,n);
+       return arr;
     }
 }
