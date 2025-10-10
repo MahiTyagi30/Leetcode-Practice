@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0542-01-matrix) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0739-daily-temperatures](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0739-daily-temperatures) |
 | [0890-lemonade-change](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0890-lemonade-change) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0967-minimum-falling-path-sum](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0967-minimum-falling-path-sum) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0224-basic-calculator) |
 | [0678-valid-parenthesis-string](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0678-valid-parenthesis-string) |
+| [0739-daily-temperatures](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0739-daily-temperatures) |
 | [3447-clear-digits](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/3447-clear-digits) |
 ## Backtracking
 |  |
@@ -400,4 +402,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0148-sort-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
