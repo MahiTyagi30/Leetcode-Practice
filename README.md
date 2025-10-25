@@ -355,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0210-course-schedule-ii](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1073-number-of-enclaves) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0543-diameter-of-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Design
 |  |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0543-diameter-of-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Number Theory
 |  |
