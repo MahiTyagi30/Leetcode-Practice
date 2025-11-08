@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0572-subtree-of-another-tree) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Simulation
 |  |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0547-number-of-provinces) |
+| [0572-subtree-of-another-tree](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0572-subtree-of-another-tree) |
 | [0801-is-graph-bipartite](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1073-number-of-enclaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0572-subtree-of-another-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Design
 |  |
@@ -412,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0572-subtree-of-another-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Number Theory
 |  |
@@ -430,4 +434,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0739-daily-temperatures) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
