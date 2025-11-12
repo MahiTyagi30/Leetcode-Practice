@@ -30,29 +30,29 @@ class Solution {
     }
     public ListNode reverseKGroup(ListNode head, int k) {
     ListNode temp=head;
-       ListNode prevLast=null;
-       while(temp!=null){
-        ListNode kthNode=getKthNode(temp,k);
-        if(kthNode==null){
+    ListNode prevLast=null;
+    while(temp!=null){
+        ListNode kth=getKthNode(temp,k);
+        if(kth==null){
             if(prevLast!=null){
-                prevLast.next=temp;
+                   prevLast.next=temp;
                 break;
-            }
 
+            }
         }
-        ListNode next=kthNode.next;
-        kthNode.next=null;
+        ListNode nextk=kth.next;
+        kth.next=null;
         reverse(temp);
         if(temp==head){
-            head=kthNode;
+            head=kth;
         }
         else{
-            prevLast.next=kthNode;
-        }
+            prevLast.next=kth;
 
-prevLast=temp;
-temp=next;
-       }
-       return head;
+        }
+        prevLast=temp;
+        temp=nextk;
+    }
+    return head;
     }
 }
