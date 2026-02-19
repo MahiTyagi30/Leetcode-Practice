@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1160-letter-tile-possibilities](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1160-letter-tile-possibilities) |
 | [1248-count-number-of-nice-subarrays](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1813-maximum-erasure-value](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1813-maximum-erasure-value) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1250-longest-common-subsequence) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2107-find-unique-binary-string](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/2107-find-unique-binary-string) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1813-maximum-erasure-value](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1813-maximum-erasure-value) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2868-continuous-subarrays](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/2868-continuous-subarrays) |
