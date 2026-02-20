@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1248-count-number-of-nice-subarrays](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1813-maximum-erasure-value](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1813-maximum-erasure-value) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1248-count-number-of-nice-subarrays) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [3427-special-array-ii](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/3427-special-array-ii) |
 ## Sliding Window
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1813-maximum-erasure-value](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1813-maximum-erasure-value) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2868-continuous-subarrays](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/2868-continuous-subarrays) |
