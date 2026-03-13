@@ -1,26 +1,26 @@
 class Solution {
-    public int candy(int[] ratings) {
-        int n=ratings.length;
-        int a[]=new int[n];
-       Arrays.fill(a,1);
+    public int candy(int[] ar) {
         
-        for(int i=1;i<n;i++){
-     int c=a[i-1];
-     if(ratings[i]>ratings[i-1]){
-        a[i]=c+1;
-     }
-        }
-
-        for(int i=n-2;i>=0;i--){
-     int c=a[i+1];
-     if(ratings[i]>ratings[i+1]){
-        a[i]=Math.max(a[i],c+1);
-     }
-        }
         int sum=0;
-        for(int i=0;i<n;i++){
-            sum=sum+a[i];
+        int l=ar.length;
+        int candy[]=new int[l];
+        Arrays.fill(candy,1);
+        
+            for(int i=1;i<l;i++){
+                if(ar[i]>ar[i-1]){
+                    candy[i]=candy[i-1]+1;
+                }
+
+            }
+            for(int i=l-2;i>=0;i--){
+                if(ar[i]>ar[i+1]){
+                candy[i]=Math.max(candy[i],candy[i+1]+1);
+                }
+            }
+            for(int c:candy){
+                sum=sum+c;
+            }
+            return sum;
+
         }
-        return sum;
     }
-}
