@@ -2,25 +2,26 @@ import java.util.*;
 
 class Solution {
     public int[][] merge(int[][] intervals) {
-       if(intervals.length<=1){
-        return intervals;
-       }
-       ArrayList<int[]> res=new ArrayList<>();
-       Arrays.sort(intervals,(a,b)->Integer.compare(a[0],b[0]));
-       int[] curr=intervals[0];
-       res.add(curr);
-       for(int i=0;i<intervals.length;i++){
-        int currEnd=curr[1];
-        int nextStart=intervals[i][0];
-        int nextEnd=intervals[i][1];
-        if(nextStart<=currEnd){
-            curr[1]=Math.max(nextEnd,currEnd);
+         ArrayList<int[]> res=new ArrayList<>();
+        int l=intervals.length;
+        Arrays.sort(intervals,(a,b)->a[0]-b[0]);
+        int[] curr=intervals[0];
+        res.add(curr);
+        for(int i=1;i<l;i++){
+            int currEnd=curr[1];
+            int nextstart=intervals[i][0];
+            int nextend=intervals[i][1];
+            if(currEnd>=nextstart){
+                curr[1]=Math.max(curr[1], intervals[i][1]);
+
+            }
+            else{
+                curr=intervals[i];
+                res.add(curr);
+            }
         }
-        else{
-            curr=intervals[i];
-            res.add(curr);
-        }
-       }
         return res.toArray(new int[res.size()][]);
+      
     }
+
 }
