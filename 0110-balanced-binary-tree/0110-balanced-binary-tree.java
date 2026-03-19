@@ -22,15 +22,13 @@ class Solution {
         if(root==null){
             return true;
         }
-        int l=1+height(root.left);
-        int r=1+height(root.right);
-        int d=Math.abs(l-r);
+        int a=1+height(root.left);
+        int b=1+height(root.right);
+        int d=Math.abs(a-b);
         if(d>1){
             return false;
-           
         }
-         return isBalanced(root.left) && isBalanced(root.right);
-        
+        return isBalanced(root.left)&&isBalanced(root.right);
         
     }
 }
