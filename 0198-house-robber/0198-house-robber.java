@@ -1,24 +1,26 @@
 class Solution {
-    public int rob(int[] nums) {
-        int n=nums.length;
-        int [] dp=new int[n];
-        dp[0]=nums[0];
+    
+    public int solve(int i, int[] nums, int[] dp){
         
-        for(int i=1;i<n;i++){
-            int a=Integer.MIN_VALUE;
-            if(i-2<0){
-                a=nums[i]+0;
-            }
-            else{
-                a=nums[i]+dp[i-2];
+        if(i == 0) return nums[0];
+        if(i < 0) return 0;
 
-            }
-             int b=dp[i-1];
-    dp[i]=Math.max(a,b);
-        }
-        return dp[n-1];
+    
+        if(dp[i] != -1) return dp[i];
 
-       }
+        int pick = nums[i] + solve(i - 2, nums, dp);
+        int notPick = solve(i - 1, nums, dp);
 
+        return dp[i] = Math.max(pick, notPick);
+    }
 
+    public int rob(int[] nums) {
+        int n = nums.length;
+        int[] dp = new int[n];
+
+      
+       Arrays.fill(dp,-1);
+
+        return solve(n - 1, nums, dp);
+    }
 }
