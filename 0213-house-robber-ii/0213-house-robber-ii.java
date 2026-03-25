@@ -17,9 +17,18 @@ class Solution {
         }
         int dp[]=new int[nums.length];
         dp[s]=nums[s];
-        dp[s+1]=Math.max(nums[s+1],nums[s]);
-        for(int i=2;i<=e;i++){
-            dp[i]=Math.max(dp[i-2]+nums[i],dp[i-1]);
+        // dp[s+1]=Math.max(nums[s+1],nums[s]);
+        for(int i=1;i<=e;i++){
+           int a=Integer.MIN_VALUE;
+            if(i-2<0){
+                a=nums[i]+0;
+            }
+            else{
+                a=nums[i]+dp[i-2];
+
+            }
+             int b=dp[i-1];
+    dp[i]=Math.max(a,b);
         }
         return dp[e];
     }
