@@ -18,9 +18,9 @@ class Solution {
         int dp[]=new int[nums.length];
         dp[s]=nums[s];
         // dp[s+1]=Math.max(nums[s+1],nums[s]);
-        for(int i=1;i<=e;i++){
+        for(int i=s+1;i<=e;i++){
            int a=Integer.MIN_VALUE;
-            if(i-2<0){
+            if(i-2<s){
                 a=nums[i]+0;
             }
             else{
