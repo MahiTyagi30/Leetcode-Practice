@@ -1,28 +1,27 @@
 class Solution {
-    public int minPathSum(int[][] grid) {
-        int m = grid.length;    // Number of rows
-        int n = grid[0].length; // Number of columns
-
-        // Create a DP table to store the minimum path sum at each cell
-        int[][] dp = new int[m][n];
-
-        // Fill the DP table
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-                if (i == 0 && j == 0) {
-                    // Base case: Starting cell
-                    dp[i][j] = grid[i][j];
-                } else {
-                    int fromTop = (i > 0) ? dp[i - 1][j] : Integer.MAX_VALUE;
-                    int fromLeft = (j > 0) ? dp[i][j - 1] : Integer.MAX_VALUE;
-
-                    // Minimum path sum to reach (i, j)
-                    dp[i][j] = grid[i][j] + Math.min(fromTop, fromLeft);
-                }
-            }
+    public int solve(int m,int n,int[][] dp,int[][] grid){
+        if(m==0&&n==0){
+            return grid[m][n];
         }
-
-        // Return the minimum path sum to reach the bottom-right corner
-        return dp[m - 1][n - 1];
+       if(m<0 || n<0){
+    return (int)1e9; // or Integer.MAX_VALUE
+}
+        if(dp[m][n]!=-1){
+            return dp[m][n];
+        }
+        int up=grid[m][n]+solve(m-1,n,dp,grid);
+        int left=grid[m][n]+solve(m,n-1,dp,grid);
+        return dp[m][n]=Math.min(up,left);
+    }
+    public int minPathSum(int[][] grid) {
+        int m=grid.length;
+        int n=grid[0].length;
+       int dp[][]=new int[m][n];
+   for(int i=0;i<m;i++){
+    for(int j=0;j<n;j++){
+        dp[i][j]=-1;
+    }
+   }
+     return solve(m-1,n-1,dp,grid);
     }
 }
