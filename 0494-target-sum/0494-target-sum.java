@@ -1,16 +1,19 @@
 class Solution {
     public int findTargetSumWays(int[] nums, int target) {
-        return cal(nums, target, 0, 0);
+        int n=nums.length;
+       int sum=0;
+       return calc(nums,0,n,target,sum);
+    }
+    public int calc(int[]nums,int idx,int n,int target,int sum){
+       if(idx == n){
+    if(sum == target) return 1;
+    else return 0;
+}
+      int add=  calc(nums,idx+1,n,target,sum+nums[idx]);
+      int sub=   calc(nums,idx+1,n,target,sum-nums[idx]);
+      return add+sub;
+
     }
 
-    public int cal(int[] nums, int tar, int idx, int currSum) {
-        if (idx == nums.length) {
-            return (currSum == tar) ? 1 : 0;
-        }
-
-        int add = cal(nums, tar, idx + 1, currSum + nums[idx]);
-        int sub = cal(nums, tar, idx + 1, currSum - nums[idx]);
-
-        return add + sub;
-    }
+   
 }
