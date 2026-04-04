@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1250-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1143-longest-common-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1250-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2164-two-best-non-overlapping-events](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/2164-two-best-non-overlapping-events) |
