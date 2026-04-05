@@ -1,23 +1,20 @@
 class Solution {
-    public int minDistance(String word1, String word2) {
-        int n=word1.length();
-        int m=word2.length();
-        int dp[][]=new int[n+1][m+1];
-        for(int i=1;i<=n;i++){
-            for(int j=1;j<=m;j++){
-                if(word1.charAt(i-1)==word2.charAt(j-1)){
-                    dp[i][j]=1+dp[i-1][j-1];
-
-                }
-                else{
-                    dp[i][j]=Math.max(dp[i-1][j],dp[i][j-1]);
-                }
+    public int minDistance(String text1, String text2) {
+       int l1=text1.length();
+      int l2=text2.length();
+      int dp[][]=new int[l1+1][l2+1];
+      for(int i=1;i<=l1;i++){
+        for(int j=1;j<=l2;j++){
+            if(text1.charAt(i-1)==text2.charAt(j-1)){
+                dp[i][j]=1+dp[i-1][j-1];
+            }
+            else{
+                 dp[i][j]=Math.max(dp[i-1][j],dp[i][j-1]);
             }
         }
-            int a=dp[n][m];
-            int del=Math.abs(n-a);
-            int insert=Math.abs(m-a);
-            return del+insert;
+      }
+      int lcs= dp[l1][l2];
+      return l1+l2-2*lcs;
 
         }
     
