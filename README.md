@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0076-minimum-window-substring) |
+| [0115-distinct-subsequences](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0139-word-break) |
 | [0224-basic-calculator](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0224-basic-calculator) |
 | [0424-longest-repeating-character-replacement](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0424-longest-repeating-character-replacement) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0072-edit-distance) |
+| [0115-distinct-subsequences](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
