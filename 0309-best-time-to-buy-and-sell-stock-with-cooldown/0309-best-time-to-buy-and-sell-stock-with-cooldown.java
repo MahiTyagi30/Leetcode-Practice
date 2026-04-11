@@ -1,35 +1,34 @@
 import java.util.*;
+
 class Solution {
     public int maxProfit(int[] prices) {
-        HashMap<String ,Integer> map=new HashMap<>();
-        int sum=0;
-        return dfs(0,true,prices,map);
-        
-    }
-    public static int dfs(int i,Boolean buy,int[] prices,HashMap<String,Integer> map){
-        if(i>=prices.length){
-            return 0;
-        }
-        int res=0;
-        String key=i+","+buy;
-        if(map.containsKey(key)){
-            return map.get(key);
-        }
-        int cool=dfs(i+1,buy,prices,map);
-        if(buy){
-            int b=dfs(i+1,false,prices,map)-prices[i];
-            res=Math.max(b,cool);
-        }
-        else{
-            int s=dfs(i+2,true,prices,map)+prices[i];
-            res=Math.max(s,cool);
-        }
-        map.put(key,res);
-        return res;
+        int n = prices.length;
+        int dp[][] = new int[n + 1][2];
 
-      
-        
+        for(int i = n - 1; i >= 0; i--) {
+            for(int j = 0; j < 2; j++) {
+
+                if(j == 1) {
+                    // Buy or skip
+                    dp[i][j] = Math.max(
+                        -prices[i] + dp[i + 1][0],
+                        dp[i + 1][1]
+                    );
+                } 
+                else {
+                    // Sell or skip
+                    int sell = prices[i];
+                    if(i + 2 <= n) {
+                        sell += dp[i + 2][1];
+                    }
+
+                    int skip = dp[i + 1][0];
+
+                    dp[i][j] = Math.max(sell, skip);
+                }
+            }
+        }
+
+        return dp[0][1];
     }
-   
-    
 }
