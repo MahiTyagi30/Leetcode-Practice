@@ -1,49 +1,49 @@
 class Solution {
     public int countCompleteComponents(int n, int[][] edges) {
         // Build graph
-        ArrayList<ArrayList<Integer>> adj = new ArrayList<>();
-        for(int i = 0; i < n; i++) adj.add(new ArrayList<>());
-        
+        List<List<Integer>> adj=new ArrayList<>();
+        for(int i=0;i<n;i++){
+            adj.add(new ArrayList<>());
+        }
         for(int[] e : edges) {
             adj.get(e[0]).add(e[1]);
             adj.get(e[1]).add(e[0]);
         }
 
-        boolean[] vis = new boolean[n];
-        int count = 0;
+       boolean vis[]=new boolean[n];
+       int c=0;
+       for(int i=0;i<n;i++){
+        if(!vis[i]){
 
-        for(int i = 0; i < n; i++) {
-            if(!vis[i]) {
                 ArrayList<Integer> comp = new ArrayList<>();
-                dfs(i, adj, vis, comp);
-
-                int k = comp.size();
-                boolean isComplete = true;
-
-                // Check degree condition
-                for(int node : comp) {
-                    if(adj.get(node).size() != k - 1) {
-                        isComplete = false;
-                        break;
-                    }
+            dfs(comp,adj,i,vis);
+            int k=comp.size();
+             boolean flag = true;
+            for(int j=0;j<k;j++){
+                int nd=comp.get(j);
+                if(adj.get(nd).size()!=k-1){
+                    flag=false;
+                    break;
                 }
-
-                if(isComplete) count++;
+            }
+            if(flag==true){
+                c++;
             }
         }
+       }
+       return c;
 
-        return count;
     }
-
-    private void dfs(int node, ArrayList<ArrayList<Integer>> adj, 
-                     boolean[] vis, ArrayList<Integer> comp) {
-        vis[node] = true;
+    public static void dfs(ArrayList<Integer> comp,List<List<Integer>> adj,int node,boolean [] vis){
+        vis[node]=true;
         comp.add(node);
-
-        for(int nei : adj.get(node)) {
-            if(!vis[nei]) {
-                dfs(nei, adj, vis, comp);
+        for(int i=0;i<adj.get(node).size();i++){
+            int neigh=adj.get(node).get(i);
+            if(!vis[neigh]){
+                dfs(comp,adj,neigh,vis);
             }
         }
     }
+
+    
 }
