@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0930-binary-subarrays-with-sum](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0967-minimum-falling-path-sum) |
+| [0994-rotting-oranges](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1036-rotting-oranges](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1046-max-consecutive-ones-iii) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0064-minimum-path-sum) |
 | [0542-01-matrix](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0542-01-matrix) |
 | [0967-minimum-falling-path-sum](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0967-minimum-falling-path-sum) |
+| [0994-rotting-oranges](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1073-number-of-enclaves) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0801-is-graph-bipartite) |
+| [0994-rotting-oranges](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1171-shortest-path-in-binary-matrix) |
