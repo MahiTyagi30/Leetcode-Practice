@@ -1,72 +1,49 @@
 class Solution {
     
     public int[] findOrder(int numCourses, int[][] prerequisites) {
-          ArrayList<ArrayList<Integer>> adjacencyList = new ArrayList<>();
-
-        for (int i = 0; i < numCourses; i++) {
-            adjacencyList.add(new ArrayList<>());
-        }
-
-        int numOfPrerequisites = prerequisites.length;
-
-        // Add edges to the graph based on prerequisites
-        for (int i = 0; i < numOfPrerequisites; i++) {
-            int course = prerequisites[i][0];
-            int prerequisite = prerequisites[i][1];
-            adjacencyList.get(prerequisite).add(course);
-        }
-
-        // Perform Topological Sort
-
-        // Initialize an array to store the in-degree of each course
-        int[] inDegree = new int[numCourses];
-
-        // Calculate in-degree for each course
-        for (int i = 0; i < numCourses; i++) {
-            for (int neighbor : adjacencyList.get(i)) {
-                inDegree[neighbor]++;
-            }
-        }
-
-        // Use a queue to store nodes with in-degree 0 (no prerequisites)
-        Queue<Integer> queue = new LinkedList<>();
-
-        // Add courses with in-degree 0 to the queue
-        for (int i = 0; i < numCourses; i++) {
-            if (inDegree[i] == 0) {
-                queue.add(i);
-            }
-        }
-
-        // Initialize an array to store the topological order of courses
-        int[] topologicalOrder = new int[numCourses];
-        int index = 0;
-
-        // Perform BFS to find the topological order
-        while (!queue.isEmpty()) {
-            int course = queue.peek();
-            queue.remove();
-            topologicalOrder[index++] = course;
-
-            // Decrease in-degree of neighbors and add them to the queue if their in-degree becomes 0
-            for (int neighbor : adjacencyList.get(course)) {
-                inDegree[neighbor]--;
-
-                if (inDegree[neighbor] == 0) {
-                    queue.add(neighbor);
-                }
-            }
-        }
-
-        // If all courses are included in the topological order, return the order array
-        if (index == numCourses) {
-            return topologicalOrder;
-        }
-
-        // If there is a cycle in the graph (not all courses are included), return an empty array
-        int[] emptyArray = {};
-        return emptyArray;
         
-        
+       List<List<Integer>> list=new ArrayList<>();
+       for (int i = 0; i < numCourses; i++) {
+            list.add(new ArrayList<>());
+        }
+
+       for(int i=0;i<prerequisites.length;i++){
+        int u=prerequisites[i][1];
+        int v=prerequisites[i][0];
+        list.get(u).add(v);
+       }
+       int[] indegree=new int[numCourses];
+       for(int i=0;i<numCourses;i++){
+
+        for(int j=0;j<list.get(i).size();j++){
+            int node=list.get(i).get(j);
+            indegree[node]++;
+        }
+       }
+       Queue<Integer> q=new LinkedList<>();
+       for(int i=0;i<numCourses;i++){
+        if(indegree[i]==0){
+            q.add(i);
+        }
+       }
+       int[] top=new int[numCourses];
+       int i=0;
+       while(!q.isEmpty()){
+        int node=q.peek();
+        q.remove();
+        top[i++]=node;
+        for(int it:list.get(node)){
+            indegree[it]--;
+            if(indegree[it]==0){
+                q.add(it);
+            }
+        }
+
+
+       }
+       if(i != numCourses){
+    return new int[0];
+}
+       return top;
     }
 }
