@@ -47,8 +47,17 @@ class Solution {
         DSU dsu = new DSU(n);
 
         // Step 2: union all edges
+        int extra=0;
         for (int[] edge : connections) {
-            dsu.union(edge[0], edge[1]);
+            int u=edge[0];
+            int v=edge[1];
+            if(dsu.find(u)==dsu.find(v)){
+                extra++;
+            }
+            else{
+                    dsu.union(edge[0], edge[1]);
+            }
+           
         }
 
         // Step 3: count components
