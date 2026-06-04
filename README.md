@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/2685-count-the-number-of-complete-components) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0801-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0802-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1073-number-of-enclaves) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/2685-count-the-number-of-complete-components) |
 ## Union Find
@@ -553,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0785-is-graph-bipartite) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2685-count-the-number-of-complete-components](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
 |  |
@@ -561,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0802-find-eventual-safe-states) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2685-count-the-number-of-complete-components](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/2685-count-the-number-of-complete-components) |
 ## Shortest Path
 |  |
