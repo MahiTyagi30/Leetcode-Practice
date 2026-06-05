@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0846-hand-of-straights) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0930-binary-subarrays-with-sum](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0930-binary-subarrays-with-sum) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1160-letter-tile-possibilities](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1160-letter-tile-possibilities) |
 | [1248-count-number-of-nice-subarrays](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1248-count-number-of-nice-subarrays) |
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0801-is-graph-bipartite](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0801-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0802-find-eventual-safe-states) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1073-number-of-enclaves](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1073-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -555,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0785-is-graph-bipartite) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2685-count-the-number-of-complete-components](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
@@ -564,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0802-find-eventual-safe-states) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2685-count-the-number-of-complete-components](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/2685-count-the-number-of-complete-components) |
 ## Shortest Path
