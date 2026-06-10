@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0739-daily-temperatures) |
+| [0827-making-a-large-island](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0827-making-a-large-island) |
 | [0846-hand-of-straights](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0860-lemonade-change) |
 | [0890-lemonade-change](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0890-lemonade-change) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0064-minimum-path-sum) |
 | [0542-01-matrix](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0733-flood-fill) |
+| [0827-making-a-large-island](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0827-making-a-large-island) |
 | [0967-minimum-falling-path-sum](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0967-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1036-rotting-oranges) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0801-is-graph-bipartite](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0801-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0802-find-eventual-safe-states) |
+| [0827-making-a-large-island](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0827-making-a-large-island) |
 | [0994-rotting-oranges](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1073-number-of-enclaves) |
@@ -451,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0801-is-graph-bipartite](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0801-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0802-find-eventual-safe-states) |
+| [0827-making-a-large-island](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0827-making-a-large-island) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1073-number-of-enclaves](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1073-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -564,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0721-accounts-merge](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0785-is-graph-bipartite) |
+| [0827-making-a-large-island](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0827-making-a-large-island) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2685-count-the-number-of-complete-components](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/2685-count-the-number-of-complete-components) |
