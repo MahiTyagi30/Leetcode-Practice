@@ -17,11 +17,36 @@ class Solution {
         int m=grid.length;
         int n=grid[0].length;
        int dp[][]=new int[m][n];
-   for(int i=0;i<m;i++){
+//    for(int i=0;i<m;i++){
+//     for(int j=0;j<n;j++){
+//         dp[i][j]=-1;
+//     }
+//    }
+//      return solve(m-1,n-1,dp,grid);
+
+for(int i=0;i<m;i++){
+
     for(int j=0;j<n;j++){
-        dp[i][j]=-1;
+        if(i==0&&j==0){
+            dp[i][j]=grid[i][j];
+            continue;
+        }
+        else{
+
+        
+        int a = Integer.MAX_VALUE;
+int b = Integer.MAX_VALUE;
+
+        if(i-1>=0){
+            a=grid[i][j]+dp[i-1][j];
+        }
+        if(j-1>=0){
+            b=grid[i][j]+dp[i][j-1];
+        }
+        dp[i][j]=Math.min(a,b);
+        }
     }
-   }
-     return solve(m-1,n-1,dp,grid);
+}
+return dp[m-1][n-1];
     }
 }
