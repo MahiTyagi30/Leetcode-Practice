@@ -1,45 +1,62 @@
 class Solution {
-    public boolean isMatch(String s, String p) {
-        return wildcardMatching(p, s) == 1;
-    }
-    
-    private static boolean isAllStars(String S1, int i) {
-        for (int j = 0; j <= i; j++) {
-            if (S1.charAt(j) != '*')
-                return false;
+    public static boolean fun(int i,int j,String s,String t,int n,int m){
+        if(i<0&&j<0){
+            return true;
         }
-        return true;
+        if(j<0){
+            return false;
+        }
+        if(i<0){
+            while(j>=0){
+                if(t.charAt(j)!='*'){
+                    return false;
+                }
+                j--;
+            }
+            return true;
+        }
+        if(s.charAt(i)==t.charAt(j)||t.charAt(j)=='?'){
+            return fun(i-1,j-1,s,t,n,m);
+        }
+        else if(t.charAt(j)=='*'){
+           return  fun(i - 1, j, s, t,n,m) || fun(i, j - 1, s, t,n,m);
+        }
+        return false;
     }
-
-    private static int wildcardMatchingUtil(String S1, String S2, int i, int j, int[][] dp) {
-        if (i < 0 && j < 0)
-            return 1;
-        if (i < 0 && j >= 0)
-            return 0;
-        if (j < 0 && i >= 0)
-            return isAllStars(S1, i) ? 1 : 0;
-
-        if (dp[i][j] != -1) return dp[i][j];
-
-        if (S1.charAt(i) == S2.charAt(j) || S1.charAt(i) == '?')
-            return dp[i][j] = wildcardMatchingUtil(S1, S2, i - 1, j - 1, dp);
-        else {
-            if (S1.charAt(i) == '*') {
-                return dp[i][j] = (wildcardMatchingUtil(S1, S2, i - 1, j, dp) == 1 || wildcardMatchingUtil(S1, S2, i, j - 1, dp) == 1) ? 1 : 0;
-            } else {
-                return dp[i][j] = 0;
+    public boolean isMatch(String s, String p) {
+       int n=s.length();
+       int m=p.length();
+     boolean dp[][]=new boolean[n+1][m+1];
+      dp[0][0]=true;
+       for(int i=1;i<=n;i++){
+        dp[i][0]=false;
+       }
+       for(int j=1;j<=m;j++){
+        if(p.charAt(j-1)=='*'){
+            dp[0][j]=dp[0][j-1];
+        }
+        else{
+            dp[0][j]=false;
+        }
+        
+       }
+      
+       for(int i=1;i<=n;i++){
+        for(int j=1;j<=m;j++){
+            if(s.charAt(i-1)==p.charAt(j-1) || p.charAt(j-1)=='?'){
+                dp[i][j]=dp[i-1][j-1];
+            }
+            else if(p.charAt(j-1)=='*'){
+                dp[i][j]=dp[i-1][j]||dp[i][j-1];
+            }
+            else{
+                dp[i][j]=false;
             }
         }
+       }
+
+      return  dp[n][m];
     }
-
-    private static int wildcardMatching(String S1, String S2) {
-        int n = S1.length();
-        int m = S2.length();
-
-        int dp[][] = new int[n][m];
-        for (int row[] : dp)
-            Arrays.fill(row, -1);
-
-        return wildcardMatchingUtil(S1, S2, n - 1, m - 1, dp);
-    }
+    
+   
 }
