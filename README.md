@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0231-power-of-two) |
+| [1106-parsing-a-boolean-expression](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1106-parsing-a-boolean-expression) |
 | [2050-count-good-numbers](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/2050-count-good-numbers) |
 ## Two Pointers
 |  |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0721-accounts-merge](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0721-accounts-merge) |
 | [1092-shortest-common-supersequence](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1092-shortest-common-supersequence) |
+| [1106-parsing-a-boolean-expression](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1106-parsing-a-boolean-expression) |
 | [1143-longest-common-subsequence](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1143-longest-common-subsequence) |
 | [1160-letter-tile-possibilities](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1170-shortest-common-supersequence) |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0224-basic-calculator) |
 | [0678-valid-parenthesis-string](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0739-daily-temperatures) |
+| [1106-parsing-a-boolean-expression](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1106-parsing-a-boolean-expression) |
 | [3447-clear-digits](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/3447-clear-digits) |
 ## Backtracking
 |  |
