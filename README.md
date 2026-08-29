@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0416-partition-equal-subset-sum) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0494-target-sum) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0142-linked-list-cycle-ii) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0424-longest-repeating-character-replacement](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0567-permutation-in-string) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0231-power-of-two) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Recursion
 |  |
 | ------- |
@@ -440,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0139-word-break) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Memoization
 |  |
 | ------- |
