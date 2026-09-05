@@ -15,19 +15,15 @@ class Solution {
     }
     
     public int[][] floodFill(int[][] image, int sr, int sc, int color) {
-        int n=image.length;
-         int m=image[0].length;
-
-       boolean vis[][]=new boolean[n][m];
-             int original = image[sr][sc];
-
-        // if already same color → no need
-        if (original == color) return image;
-
-    
-       helper(image,vis,sr,sc,color,original);
-       
-       return image;
         
+        int n=image.length;
+        int m=image[0].length;
+        boolean vis[][]=new boolean[n][m];
+        int org=image[sr][sc];
+        if(org==color){
+            return image;
+        }
+        helper(image,vis,sr,sc,color,org);
+        return image;
     }
 }
