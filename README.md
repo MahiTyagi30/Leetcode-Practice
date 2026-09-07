@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0207-course-schedule](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0322-coin-change) |
@@ -462,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0145-binary-tree-postorder-traversal) |
+| [0207-course-schedule](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -490,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0802-find-eventual-safe-states) |
 ## Linked List
@@ -598,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0785-is-graph-bipartite) |
@@ -610,4 +614,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
