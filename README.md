@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0076-minimum-window-substring) |
+| [0127-word-ladder](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0142-linked-list-cycle-ii) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0127-word-ladder](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0210-course-schedule-ii) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0115-distinct-subsequences) |
+| [0127-word-ladder](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0139-word-break) |
 | [0224-basic-calculator](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0224-basic-calculator) |
@@ -628,4 +631,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0207-course-schedule) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
