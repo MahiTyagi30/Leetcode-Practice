@@ -1,49 +1,77 @@
 class Solution {
-    
-    public int[] findOrder(int numCourses, int[][] prerequisites) {
-        
-       List<List<Integer>> list=new ArrayList<>();
-       for (int i = 0; i < numCourses; i++) {
-            list.add(new ArrayList<>());
-        }
 
-       for(int i=0;i<prerequisites.length;i++){
-        int u=prerequisites[i][1];
-        int v=prerequisites[i][0];
-        list.get(u).add(v);
-       }
-       int[] indegree=new int[numCourses];
-       for(int i=0;i<numCourses;i++){
+    public boolean dfs(int node, int[] vis, int[] pathVis,
+                       ArrayList<ArrayList<Integer>> adj,
+                       Stack<Integer> st) {
 
-        for(int j=0;j<list.get(i).size();j++){
-            int node=list.get(i).get(j);
-            indegree[node]++;
-        }
-       }
-       Queue<Integer> q=new LinkedList<>();
-       for(int i=0;i<numCourses;i++){
-        if(indegree[i]==0){
-            q.add(i);
-        }
-       }
-       int[] top=new int[numCourses];
-       int i=0;
-       while(!q.isEmpty()){
-        int node=q.peek();
-        q.remove();
-        top[i++]=node;
-        for(int it:list.get(node)){
-            indegree[it]--;
-            if(indegree[it]==0){
-                q.add(it);
+        vis[node] = 1;
+        pathVis[node] = 1;
+
+        for (Integer it : adj.get(node)) {
+
+            if (vis[it] == 0) {
+
+                if (dfs(it, vis, pathVis, adj, st)) {
+                    return true;
+                }
+
+            } else if (pathVis[it] == 1) {
+
+                // Cycle detected
+                return true;
             }
         }
 
+        pathVis[node] = 0;
+        st.push(node);
 
-       }
-       if(i != numCourses){
-    return new int[0];
-}
-       return top;
+        return false;
+    }
+
+    public int[] findOrder(int numCourses, int[][] prerequisites) {
+
+        // Create adjacency list
+        ArrayList<ArrayList<Integer>> adj = new ArrayList<>();
+
+        for (int i = 0; i < numCourses; i++) {
+            adj.add(new ArrayList<>());
+        }
+
+        // Create graph
+        for (int[] p : prerequisites) {
+
+            int u = p[1];  // prerequisite
+            int v = p[0];  // course
+
+            adj.get(u).add(v);
+        }
+
+        int[] vis = new int[numCourses];
+        int[] pathVis = new int[numCourses];
+
+        Stack<Integer> st = new Stack<>();
+
+        // DFS for every component
+        for (int i = 0; i < numCourses; i++) {
+
+            if (vis[i] == 0) {
+
+                if (dfs(i, vis, pathVis, adj, st)) {
+
+                    // Cycle exists
+                    return new int[0];
+                }
+            }
+        }
+
+        // Generate answer from stack
+        int[] ans = new int[numCourses];
+        int i = 0;
+
+        while (!st.isEmpty()) {
+            ans[i++] = st.pop();
+        }
+
+        return ans;
     }
 }
