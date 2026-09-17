@@ -1,56 +1,42 @@
 class Solution {
     public List<Integer> eventualSafeNodes(int[][] graph) {
-         List<List<Integer>> adj = new ArrayList<>();
-         ArrayList<Integer> list = new ArrayList<>();
-        int V=graph.length;
-        int[] indeg=new int[V];
-        for(int i = 0; i < V; i++){
-            adj.add(new ArrayList<>());
-        }
-
-        // graph creation
-for(int i=0;i<V;i++){
-     for(int j = 0; j < graph[i].length; j++){
-
-            int u = graph[i][j];
-            
-
-            adj.get(u).add(i);
-            indeg[i]++;
-        }
-
+        ArrayList<ArrayList<Integer>> adj=new ArrayList<>();
+        int n=graph.length;
+        for(int i = 0; i < n; i++){
+    adj.add(new ArrayList<>());
 }
-       
-         Queue<Integer> q = new LinkedList<>();
-
-        for(int i = 0; i < V; i++){
-
-            if(indeg[i] == 0){
-                q.add(i);
+ int indeg[]=new int[n];
+        for(int i=0;i<n;i++){
+            int m=graph[i].length;
+            for(int j=0;j<m;j++){
+                int a=graph[i][j];
+                adj.get(graph[i][j]).add(i);
+                indeg[i]++;
             }
         }
+        Queue<Integer> q=new LinkedList<>();
+        for(int i=0;i<n;i++){
+            if(indeg[i]==0){
+                q.add(i);
 
-        int count = 0;
-
+            }
+        }
+         ArrayList<Integer> list=new ArrayList<>();
         while(!q.isEmpty()){
-
-            int a = q.peek();
+            int node=q.peek();
             q.remove();
-
-            list.add(a);
-            count++;
-
-            for(int it : adj.get(a)){
-
+            list.add(node);
+            for(Integer it:adj.get(node)){
                 indeg[it]--;
-
-                if(indeg[it] == 0){
+                if(indeg[it]==0){
                     q.add(it);
                 }
             }
+
         }
-         
-Collections.sort(list);
-return list;
+        Collections.sort(list);
+        return list;
+       
+       
     }
 }
