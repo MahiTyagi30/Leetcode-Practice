@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1631-path-with-minimum-effort](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1631-path-with-minimum-effort) |
 | [1813-maximum-erasure-value](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1813-maximum-erasure-value) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1073-number-of-enclaves) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1631-path-with-minimum-effort) |
 ## Graph
 |  |
 | ------- |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1631-path-with-minimum-effort](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1631-path-with-minimum-effort) |
 | [2685-count-the-number-of-complete-components](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/2685-count-the-number-of-complete-components) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Math
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1046-max-consecutive-ones-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1631-path-with-minimum-effort](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1631-path-with-minimum-effort) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2164-two-best-non-overlapping-events](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/2164-two-best-non-overlapping-events) |
@@ -362,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0778-swim-in-rising-water](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1631-path-with-minimum-effort](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1631-path-with-minimum-effort) |
 | [2164-two-best-non-overlapping-events](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/2164-two-best-non-overlapping-events) |
 | [2868-continuous-subarrays](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/2868-continuous-subarrays) |
 ## Prefix Sum
@@ -497,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1073-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1631-path-with-minimum-effort](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1631-path-with-minimum-effort) |
 | [2685-count-the-number-of-complete-components](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/2685-count-the-number-of-complete-components) |
 ## Union Find
 |  |
@@ -615,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1631-path-with-minimum-effort](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1631-path-with-minimum-effort) |
 | [2685-count-the-number-of-complete-components](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
 |  |
@@ -656,4 +663,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0802-find-eventual-safe-states) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
