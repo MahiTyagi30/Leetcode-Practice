@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1631-path-with-minimum-effort](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1631-path-with-minimum-effort) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1813-maximum-erasure-value](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1813-maximum-erasure-value) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0231-power-of-two) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1707-maximum-xor-with-an-element-from-array) |
 ## Recursion
 |  |
 | ------- |
@@ -469,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1707-maximum-xor-with-an-element-from-array) |
 ## Memoization
 |  |
 | ------- |
