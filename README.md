@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0542-01-matrix) |
+| [0621-task-scheduler](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0621-task-scheduler) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0721-accounts-merge](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0733-flood-fill) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0721-accounts-merge) |
 | [0846-hand-of-straights](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0846-hand-of-straights) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0295-find-median-from-data-stream) |
 | [0435-non-overlapping-intervals](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0721-accounts-merge) |
 | [0846-hand-of-straights](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0846-hand-of-straights) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -371,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0295-find-median-from-data-stream) |
+| [0621-task-scheduler](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0778-swim-in-rising-water) |
@@ -411,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0621-task-scheduler) |
 | [1160-letter-tile-possibilities](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/1160-letter-tile-possibilities) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Queue
@@ -435,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0846-hand-of-straights](https://github.com/MahiTyagi30/Leetcode-Practice/tree/master/0846-hand-of-straights) |
